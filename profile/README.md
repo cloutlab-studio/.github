@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cloutlab.studio/en/"><img src="./banner.png" alt="Cloutlab: we build products people talk about" width="100%" /></a>
+  <a href="https://cloutlab.studio/en/"><img src="./img/banner.png" alt="Cloutlab: we build products people talk about" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -14,25 +14,37 @@ Cloutlab is a full-cycle software studio. We design, build, launch and support T
 
 ### What we build
 
-| Service | In short |
-| :-- | :-- |
-| [**Telegram bots and Mini Apps**](https://cloutlab.studio/en/services/telegram-bots/) | Bots, Mini Apps, payments and admin panels inside Telegram |
-| [**AI agents and LLM integration**](https://cloutlab.studio/en/services/ai-agents/) | Assistants, agents, ChatGPT integration and RAG over your data |
-| [**SaaS and web apps**](https://cloutlab.studio/en/services/web-apps/) | Web apps, SaaS platforms and MVPs that grow with you |
-| [**Mobile apps**](https://cloutlab.studio/en/services/mobile-apps/) | iOS and Android apps from design to store release |
-| [**Custom CRM**](https://cloutlab.studio/en/services/crm/) | CRM built around your sales and service process |
-| [**Process automation**](https://cloutlab.studio/en/services/automation/) | Integrations, workflows and AI steps that remove manual work |
+<p align="center">
+  <a href="https://cloutlab.studio/en/services/telegram-bots/"><img src="./img/card-telegram.png" alt="Telegram bots and Mini Apps: shops, clubs and services inside Telegram, with card and Stars payments" width="49%" /></a>
+  <a href="https://cloutlab.studio/en/services/ai-agents/"><img src="./img/card-ai.png" alt="AI agents and LLM: assistants and agents with search over your own data" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://cloutlab.studio/en/services/web-apps/"><img src="./img/card-web.png" alt="Web apps and SaaS: web apps, SaaS platforms and MVPs" width="49%" /></a>
+  <a href="https://cloutlab.studio/en/services/mobile-apps/"><img src="./img/card-mobile.png" alt="Mobile apps: iOS and Android, from design to store release" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://cloutlab.studio/en/services/crm/"><img src="./img/card-crm.png" alt="Custom CRM: pipelines, roles and reports around your process" width="49%" /></a>
+  <a href="https://cloutlab.studio/en/services/automation/"><img src="./img/card-automation.png" alt="Process automation: integrations, workflows and AI steps that remove manual work" width="49%" /></a>
+</p>
 
 ### How we work
 
-- **4 weeks** from idea to MVP.
-- **Two-week sprints** with a demo of the result and access to tasks and the repository from day one.
-- **100% of the code and IP are yours.** Exclusive rights transfer under the contract, and the repository lives in your account.
-- **After launch** we keep the infrastructure, CI/CD and monitoring running and support the product.
+<p align="center">
+  <img src="./img/facts.png" alt="4 weeks from idea to MVP. 2-week sprints with a demo. 100% of the code and IP are yours. Access to tasks and the repository from day one." width="100%" />
+</p>
+
+Exclusive rights to the code and design transfer under the contract, and the repository lives in your account. After launch we keep the infrastructure, CI/CD and monitoring running and support the product.
 
 ### Stack
 
 `TypeScript` `React` `Next.js` `Astro` `Node.js` `Swift` `Kotlin` `Flutter` `React Native` `PostgreSQL` `ClickHouse` `Docker` `Kubernetes` `Telegram Bot API` `TON` `LLM` `RAG`
+
+<br />
+
+<p align="center">
+  <a href="https://cloutlab.studio/en/contacts/"><img src="./img/cta-start.png" alt="Start a project" width="49%" /></a>
+  <a href="https://t.me/cloutlab_studio"><img src="./img/cta-telegram.png" alt="Telegram @cloutlab_studio" width="49%" /></a>
+</p>
 
 <details>
 <summary><b>По-русски</b></summary>
